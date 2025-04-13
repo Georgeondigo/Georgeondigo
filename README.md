@@ -2,8 +2,7 @@
    A passionate Computer Science student, software developer, and cloud enthusiast.
 
 -  Actively expanding my skills in Machine Learning, Cloud Computing (AWS), and DevOps practices.
--  I’m looking to collaborate on Python, TypeScript, and C#-based applications—especially those involving secure systems and data handling.
-- 💬 Ask me about C, TypeScript, cloud computing, and machine learning.
+-  I’m looking to collaborate on Python, TypeScript, and C#-based applications
 - 📫 How to reach me: georgeondigo8@gmail.com
 
 
