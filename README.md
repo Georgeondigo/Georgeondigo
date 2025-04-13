@@ -23,7 +23,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Georgeondigo&show_icons=true&theme=transparent&title_color=006AFF&text_color=417E87&bg_color=ffffff00) [](https://github-readme-streak-stats.herokuapp.com/?user=Georgeondigo&show_icons=true&theme=transparent&title_color=006AFF&text_color=417E87&bg_color=ffffff00)
+![](https://github-readme-stats.vercel.app/api?username=Georgeondigo&show_icons=true&theme=transparent&title_color=006AFF&text_color=417E87&bg_color=ffffff00) ![](https://github-readme-streak-stats.herokuapp.com/?user=Georgeondigo&show_icons=true&theme=transparent&title_color=006AFF&text_color=417E87&bg_color=ffffff00)
 
 
 ---
