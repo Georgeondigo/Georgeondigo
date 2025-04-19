@@ -3,7 +3,7 @@
 
 -  Actively expanding my skills in Machine Learning, Cloud Computing (AWS), and DevOps practices.
 -  I’m looking to collaborate on Python, TypeScript, and C#-based applications
-- 📫 How to reach me: georgeondigo8@gmail.com
+- 📫 How to reach me: georgeondigo8@gmail.com  .
 
 
 
